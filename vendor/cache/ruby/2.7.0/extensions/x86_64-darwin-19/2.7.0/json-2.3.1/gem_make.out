@@ -1,0 +1,13 @@
+current directory: /Users/maharjanbinish/Desktop/Swift Practise/DIKitTest/vendor/cache/ruby/2.7.0/gems/json-2.3.1/ext/json
+/Users/maharjanbinish/.rbenv/versions/2.7.1/bin/ruby -I /Users/maharjanbinish/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20201130-48185-1j60f8q.rb extconf.rb
+creating Makefile
+
+current directory: /Users/maharjanbinish/Desktop/Swift Practise/DIKitTest/vendor/cache/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/maharjanbinish/Desktop/Swift Practise/DIKitTest/vendor/cache/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/maharjanbinish/Desktop/Swift Practise/DIKitTest/vendor/cache/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" install
