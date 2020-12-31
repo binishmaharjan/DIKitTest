@@ -35,7 +35,7 @@ By Default the auto generated files wont appear in the directory, so manually ad
 
 ### Add BuildScript
 Open Xcode
-Go To Build Phase and new Runscript
+Go To Build Phase and new Runscript above `Compile Source`
 ```
 if [ "${CONFIGURATION}" != "Release" ]; then
   cd $PROJECT_DIR
